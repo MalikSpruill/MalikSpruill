@@ -15,11 +15,13 @@
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=jQuery&color=blue&style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery"> 
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=node.js&color=green&style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"> 
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Express&color=cadetblue&style=for-the-badge&logo=express&logoColor=white" alt="express"> 
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=Jest&color=crimson&style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"> 
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://www.github.com/MalikSpruill" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
+    <a href="https://www.github.com/MalikSpruill" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=HEROKU&color=rebeccapurple&style=for-the-badge&logo=heroku&logoColor=white" alt="HEROKU"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=NPM&color=black&style=for-the-badge&logo=npm&logoColor=whitesmoke" alt="NPM"></a>
 </div>
 
