@@ -1,4 +1,4 @@
-<h1 style="text-align: center;margin-bottom: 5px;">Malik Spruill, Here!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+<h1 style="text-align: center;margin-bottom: 5px;">Malik Spruill, Here!</h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Full stack developer with a capability to apply knowledge for frontend and/or backend roles.</h3>
 
 <h3>🍏 About Me</h3>
